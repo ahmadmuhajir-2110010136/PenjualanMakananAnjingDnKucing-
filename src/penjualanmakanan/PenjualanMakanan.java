@@ -4,6 +4,8 @@
  */
 package penjualanmakanan;
 
+import dataset.karyawan;
+
 /**
  *
  * @author LENOVO
@@ -16,12 +18,13 @@ public class PenjualanMakanan {
     public static void main(String[] args) {
         // TODO code application logic here
         
-    karyawan obj = new karyawan ();
+    /* karyawan obj = new karyawan ();
     
     obj.setIdkaryawan("1");
     obj.setNama("Ajir");
     System.out.println("Id Karyawan: "+ obj.getIdkaryawan ());
     System.out.println("Nama Karyawan : "+ obj.getNama());
+    */
     }
     
 }
